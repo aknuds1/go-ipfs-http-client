@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ipfs-http-client
+module github.com/aknuds1/go-ipfs-http-client
 
 require (
 	github.com/ipfs/go-block-format v0.0.2
